@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    color: blue;
+    height: 100%;
+    font-size: medium;
+    border-radius: 2px;
+    position: absolute;
+    display: flex;
+    flex: auto;
+}
